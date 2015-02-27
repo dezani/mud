@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUDBackEnd", "MUDBackEnd\MUDBackEnd.csproj", "{4FCA1A2A-0583-4809-9F52-8DAB08CBD516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUDConsole", "MUDConsole\MUDConsole.csproj", "{3C6674AF-2754-4851-B9B4-E50EEAFE7A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C6674AF-2754-4851-B9B4-E50EEAFE7A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6674AF-2754-4851-B9B4-E50EEAFE7A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6674AF-2754-4851-B9B4-E50EEAFE7A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6674AF-2754-4851-B9B4-E50EEAFE7A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FCA1A2A-0583-4809-9F52-8DAB08CBD516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCA1A2A-0583-4809-9F52-8DAB08CBD516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCA1A2A-0583-4809-9F52-8DAB08CBD516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCA1A2A-0583-4809-9F52-8DAB08CBD516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MUDConsole\MUDConsole.csproj
+	EndGlobalSection
+EndGlobal
